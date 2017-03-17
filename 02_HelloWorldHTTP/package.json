@@ -6,5 +6,8 @@
   "author": {
     "name": "Rami Sayar",
     "email": ""
+  },
+  "dependencies": {
+    "tcp": "^1.0.0"
   }
 }
